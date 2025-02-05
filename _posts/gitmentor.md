@@ -41,3 +41,7 @@ ogImage:
 - **9:00 AM**: Dropped on peerlist 🙂
 
 - **12:00 PM**: Became #4 product
+
+## Wednesday
+
+#### Results are announced. Gitmentor is top 10 in peerlist.
